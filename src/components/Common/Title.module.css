@@ -1,0 +1,10 @@
+.header {
+    text-transform: uppercase;
+    text-align: center;
+    margin: 1rem;
+    color: white;
+}
+
+.subtitle {
+    color: var(--primary)
+}

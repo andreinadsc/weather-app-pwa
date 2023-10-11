@@ -1,0 +1,32 @@
+
+.item {
+    list-style: none;
+    font-family: inherit;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.button {
+    cursor: pointer;
+    border: 1px solid var(--primary);
+    background-color: var(--primary);
+    width: 20rem;
+    height: 5rem;
+    font-size: 1.5rem;
+    color: var(--secondary);
+}
+
+.button:hover {
+    background-color: var(--accent);
+}
+
+.bin {
+    border-left: 1px solid white;
+    width: 4rem;
+    position: relative;
+    box-sizing: border-box;
+    transition: .8s;
+}

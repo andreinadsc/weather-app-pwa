@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Roboto+Condensed:wght@300;400;700&display=swap');
+
+[data-theme='day'] {
+  --bg-image: url('./images/background-day.webp');
+  --primary: #0047AB;
+  --secondary: #FFF;
+  --accent: #5A4ECF;
+}
+
+[data-theme='nigth'] {
+  --bg-image: url('./images/background-night.webp');
+  --primary: #002146;
+  --secondary: #FFF;
+  --text-primary: #FBFFF1;
+  --accent: #1E022D;
+}
+
+html.theme-transition,
+html.theme-transition *,
+html.theme-transition *:before,
+html.theme-transition *:after {
+  transition: all 750ms !important;
+  transition-delay: 0 !important;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  min-width: 100vw;
+  line-height: 1;
+  margin: 0;
+  background: var(--bg-image) no-repeat center center fixed;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Poppins', Arial, sans-serif;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

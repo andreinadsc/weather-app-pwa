@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header should render the Header Component correctly 1`] = `
+<body>
+  <div>
+    <header
+      class="header"
+    >
+      <div
+        class="toggle-switch"
+      >
+        <input
+          checked=""
+          class="checkbox"
+          id="temperature"
+          name="temperature"
+          type="checkbox"
+        />
+        <label
+          class="label"
+          for="temperature"
+        >
+          <span
+            class="inner"
+          />
+          <span
+            class="switch"
+            data-testid="switch"
+          />
+        </label>
+      </div>
+      <img
+        alt="logo"
+        class="logo"
+        src="logo.webp"
+      />
+      <h1
+        class="title"
+      >
+        Weather Forecast
+      </h1>
+    </header>
+  </div>
+</body>
+`;

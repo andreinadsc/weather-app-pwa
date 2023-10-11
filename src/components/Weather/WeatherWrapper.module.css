@@ -1,0 +1,36 @@
+.wrapper {
+    min-height: 50vh;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    font-size: 2rem;
+    color: white;
+}
+
+.title {
+    text-transform: uppercase;
+    text-align: center;
+    margin: 2rem;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fade-in {
+    opacity: 1;
+    transition: opacity 1s ease-in;
+}
+
+.fade-out {
+    opacity: 0;
+}
+
+@media (max-width: 800px) {
+    .wrapper {
+        align-items: center;
+        flex-direction: column;
+    }
+}

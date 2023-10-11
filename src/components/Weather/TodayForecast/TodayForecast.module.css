@@ -1,0 +1,11 @@
+.forecast {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%/3, max(64px, 100%/5)), 1fr));
+    grid-gap: 1rem;
+}
+
+@media (max-width: 800px) {
+    .forecast {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}

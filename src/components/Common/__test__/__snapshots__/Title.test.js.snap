@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Title Common Component should render header title correctly 1`] = `
+<body>
+  <div>
+    <h4
+      class="header"
+    >
+      Header
+    </h4>
+  </div>
+</body>
+`;
+
+exports[`Title Common Component should render subtitle correctly 1`] = `
+<body>
+  <div>
+    <h4
+      class="header subtitle"
+    >
+      Subtitle
+    </h4>
+  </div>
+</body>
+`;

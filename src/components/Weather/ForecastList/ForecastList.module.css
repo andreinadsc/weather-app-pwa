@@ -1,0 +1,39 @@
+.frame {
+    list-style: none;
+    text-align: center;
+    background-color: var(--secondary);
+    color: var(--primary);
+    box-shadow: var(--primary) 0px 25px 50px -12px;
+    border-radius: 10px;
+    display: grid;
+    font-size: 1.5rem;
+    gap: .2rem;
+    padding: 1rem;
+}
+
+.vertical {
+    grid-template-rows: 10% 40% 25% 25%;
+    margin: 1rem auto;
+}
+
+.horizontal {
+    grid-template-columns: 15% 20% 35% 30%;
+    align-items: center;
+    margin: 1rem;
+}
+
+.img {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.temp {
+    padding: .8rem;
+    align-self: center;
+}
+
+@media (max-width: 800px) {
+    .frame {
+        font-size: 1rem;
+    }
+}

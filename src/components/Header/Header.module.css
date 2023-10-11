@@ -1,0 +1,29 @@
+.header {
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    width: 8rem;
+    height: 8rem;
+    border-radius: 10rem;
+    padding: 1rem;
+}
+
+.title {
+    text-transform: uppercase;
+    color: #FBFFF1;
+    font-size: 3rem;
+}
+
+@media (max-width: 800px) {
+    .title {
+        font-size: 1.5em;
+    }
+    .logo {
+        width: 6rem;
+        height: 6rem;
+    }
+}

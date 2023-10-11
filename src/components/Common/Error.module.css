@@ -1,0 +1,15 @@
+.oops {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 5rem;
+    font-weight: bold;
+    margin: 6rem;
+}
+
+.error-message {
+    font-size: 3rem;
+    margin: 4rem;
+    line-height: 6rem;
+    text-align: center;
+}

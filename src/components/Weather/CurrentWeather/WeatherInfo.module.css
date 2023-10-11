@@ -1,0 +1,9 @@
+.info {
+    text-transform: uppercase;
+    text-align: center;
+    width: 50%;
+}
+
+.date {
+    font-size: 1rem;
+}
