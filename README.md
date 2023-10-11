@@ -1,6 +1,4 @@
 <a name='readme-top'></a>
-
-<!-- PROJECT LOGO -->
 <br />
 <div align='center'>
 
@@ -66,8 +64,6 @@ REACT_APP_WEATHER_API_KEY=XXXXXXXXXXXXXXXXXXXXXXXX
 REACT_APP_RAPID_API_KEY=XXXXXXXXXXXXXXXXXXXXXXXX
 ```
 
-<!-- GETTING STARTED -->
-
 ## Getting Started
 
 Simple weather application that shows by default the weather of your current location.
@@ -86,11 +82,6 @@ In addition, you can choose any location you want in the search bar at the top. 
 ![screenshot](./src/images/screenshot-2.webp)
 ![screenshot](./src/images/screenshot-4.webp)
 
-
-<!-- CONTACT -->
-
 ## Contact
-
 María Andreina Da Silva - andreinadsc@gmail.com
-
 <p align='right'>(<a href='#readme-top'>back to top</a>)</p>
