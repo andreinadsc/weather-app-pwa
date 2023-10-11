@@ -8,6 +8,7 @@ const Error = ({ message }) => {
             <div className={classes.oops}><PiWarningCircleFill /> Oops!</div>
             {message && <div className={classes['error-message']}>{message}</div>}
         </Card>
+
     );
 };
 
