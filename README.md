@@ -79,7 +79,7 @@ In addition, you can choose any location you want in the search bar at the top. 
 
 ![screenshot](./src/images/screenshot-1.webp)
 ![screenshot](./src/images/screenshot-3.webp)
-![screenshot](./src/images/screenshot-2.webp)
+![screenshot](./src/images/screenshot-5.webp)
 ![screenshot](./src/images/screenshot-4.webp)
 
 ## Contact
