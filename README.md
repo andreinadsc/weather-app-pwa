@@ -1,16 +1,16 @@
-<a name="readme-top"></a>
+<a name='readme-top'></a>
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div align='center'>
 
-  <img src="public/logo.webp" alt="Logo" width="80" height="80" />
-  <h3 align="center">Weather Application using React JS</h3>
-  <p align="center">
+  <img src='src/images/logo.webp' alt='Logo' width='80' height='80' />
+  <h3 align='center'>Weather Application using React JS</h3>
+  <p align='center'>
     <br />
-    <a href="">View Demo</a>
+    <a href=''>View Demo</a>
     ·
-    <a href="">Report Bug</a>
+    <a href=''>Report Bug</a>
   </p>
 </div>
 
@@ -18,18 +18,18 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href='#about-the-project'>About The Project</a>
     </li>
     <li>
-        <a href="#built-with">Built With</a>
+        <a href='#built-with'>Built With</a>
     </li>
      <li>
-      <a href="#before-you-start">Before You Start</a>
+      <a href='#before-you-start'>Before You Start</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href='#getting-started'>Getting Started</a>
     </li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href='#contact'>Contact</a></li>
   </ol>
 </details>
 
@@ -38,7 +38,7 @@
 ![screenshot](./src/images/screenshot-1.webp)
 A weather app with react that supports PWA Apps Functionality, Offline Mode and has a Mobile Responsive Layout
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align='right'>(<a href='#readme-top'>back to top</a>)</p>
 
 ## Built With
 
@@ -46,13 +46,13 @@ A weather app with react that supports PWA Apps Functionality, Offline Mode and 
 - ![HTML](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/ccs-000000?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align='right'>(<a href='#readme-top'>back to top</a>)</p>
 
 ## :warning: Before you start
 
-1. Make sure [Git](https://git-scm.com "Git") and [NodeJS](https://nodejs.org "NodeJS") are installed
+1. Make sure [Git](https://git-scm.com 'Git') and [NodeJS](https://nodejs.org 'NodeJS') are installed
 2. Create `.env` file in root folder.
-3. Create an [Open Weather Map](https://openweathermap.org/ "Open Weather Map") account.
+3. Create an [Open Weather Map](https://openweathermap.org/ 'Open Weather Map') account.
 4. Generate and copy your API key as shown in the next image
 5. Paste it in `.env` file.
 ```
@@ -93,4 +93,4 @@ In addition, you can choose any location you want in the search bar at the top. 
 
 María Andreina Da Silva - andreinadsc@gmail.com
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align='right'>(<a href='#readme-top'>back to top</a>)</p>
