@@ -16,7 +16,6 @@
     "react-select-async-paginate": "^0.7.3",
     "react-test-renderer": "^18.2.0",
     "styled-components": "^6.0.8",
-    "web-vitals": "^3.5.0",
     "workbox-background-sync": "^5.1.4",
     "workbox-broadcast-update": "^5.1.4",
     "workbox-cacheable-response": "^5.1.4",

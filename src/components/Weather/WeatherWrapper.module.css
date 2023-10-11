@@ -1,5 +1,6 @@
 .wrapper {
-    min-height: 50vh;
+    min-height: 96vh;
+    height: auto;
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
@@ -32,5 +33,6 @@
     .wrapper {
         align-items: center;
         flex-direction: column;
+        margin-left: 1.5rem;
     }
 }

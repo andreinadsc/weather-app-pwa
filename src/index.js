@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { register as registerServiceWorker } from './serviceWorkerRegistration';
-import reportWebVitals from './reportWebVitals';
 import WeatherProvider from './context/WeatherProvider';
 import App from './App';
 import './index.css';
@@ -14,4 +13,3 @@ root.render(
 );
 
 registerServiceWorker();
-reportWebVitals();

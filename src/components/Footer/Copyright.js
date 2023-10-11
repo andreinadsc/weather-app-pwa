@@ -2,8 +2,6 @@ import styled from 'styled-components';
 import Logo from '../../images/openweather.webp';
 
 const Container = styled.footer`
-    position: relative;
-    bottom: 0;
     display: flex;
     align-items: center;
     justify-content: center;
