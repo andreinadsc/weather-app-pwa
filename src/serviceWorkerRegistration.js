@@ -37,7 +37,7 @@ export function register(config) {
                 registerValidSW(swUrl, config);
             }
         });
-    //}
+    }
 }
 
 function registerValidSW(swUrl, config) {
