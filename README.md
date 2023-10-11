@@ -6,9 +6,9 @@
   <h3 align='center'>Weather Application using React JS</h3>
   <p align='center'>
     <br />
-    <a href=''>View Demo</a>
+    <a href='https://weather-app-pwa-2023.netlify.app/'>View Demo</a>
     ·
-    <a href=''>Report Bug</a>
+    <a href='https://github.com/andreinadsc/weather-app-pwa/issues'>Report Bug</a>
   </p>
 </div>
 
